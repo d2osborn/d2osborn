@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Diego Osborn</h1>
-<h3 align="center">I'm a baseball geek at UC San Diego studying Data Science with minors in Economics and Mathematics</h3>
+<h1 align="center">Hello there 👋 </h1>
+<h3 align="center">My name is Diego Osborn, i'm a baseball geek at UC San Diego studying Data Science with minors in Economics and Mathematics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d2osborn&label=Profile%20views&color=28688f&style=flat-square" alt="d2osborn" /> </p>
 
