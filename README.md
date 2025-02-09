@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d2osborn&label=Profile%20views&color=28688f&style=flat-square" alt="d2osborn" /> </p>
 
-- 📫 How to reach me **diegoisaacosborn@gmail.com**
+- 📫 How to reach me **diegoisaacosborn@gmail.com** or at **d2osborn@ucsd.edu**
 
 - 📄 Know about my experiences [Diego Osborn Resume](https://drive.google.com/file/d/1freZOWcWNvkeZlef4d8zOjwFrxWTcG_u/view?usp=sharing)
 
