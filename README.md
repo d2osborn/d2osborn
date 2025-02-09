@@ -1,8 +1,7 @@
 <h1 align="center">Hello there 👋 </h1>
 My name is Diego Osborn, I'm a baseball geek studying Data Science with minors in Economics and Mathematics at the University of California, San Diego.
 
-
-Please feel free to reach out to me via my listed contact methods!
+I'm interested in any opportunities involving data science or data analytics, so please feel free to reach out to me via my listed contact methods!
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diegoisaacosborn@ucsd.edu) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:d2osborn@ucsd.edu)
