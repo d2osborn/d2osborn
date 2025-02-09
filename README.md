@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **diegoisaacosborn@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1freZOWcWNvkeZlef4d8zOjwFrxWTcG_u/view?usp=sharing](https://drive.google.com/file/d/1freZOWcWNvkeZlef4d8zOjwFrxWTcG_u/view?usp=sharing)
+- 📄 Know about my experiences [Diego Osborn Resume](https://drive.google.com/file/d/1freZOWcWNvkeZlef4d8zOjwFrxWTcG_u/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
