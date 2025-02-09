@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Diego Osborn</h1>
-<h3 align="center">A baseball geek at UC San Diego studying Data Science with minors in Economics and Mathematics</h3>
+<h1 align="center">Hi there 👋</h1>
+<h3 align="left">Hello, my name is Diego Osborn, I'm a baseball geek studying data science with minors in economics and mathematics at UC San Diego!</h3>
 
 - 📫 How to reach me **diegoisaacosborn@gmail.com**
 
