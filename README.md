@@ -20,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d2osborn&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="d2osborn" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d2osborn&show_icons=true&theme=tokyonight&locale=en" alt="d2osborn" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d2osborn&theme=dark" alt="d2osborn" /></p>
