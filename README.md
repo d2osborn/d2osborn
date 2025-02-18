@@ -11,7 +11,7 @@ I'm interested in any opportunities involving or related to data science/data an
 </p>
 
 - 📫 How to reach me: **diegoisaacosborn@gmail.com** or **d2osborn@ucsd.edu**
-- 👥 How to connect: [My LinkedIn](www.linkedin.com/in/diego-osborn)
+- 👥 How to connect:** [My LinkedIn](www.linkedin.com/in/diego-osborn)
 
 <details>
 <summary>Experiences </summary>
@@ -25,7 +25,7 @@ My previous experiences include:
 </ul>
 </details>
 
-- 📄 Know even more about my experiences: [Resume](https://drive.google.com/file/d/1freZOWcWNvkeZlef4d8zOjwFrxWTcG_u/view?usp=sharing)
+- 📄 Know even more about my experiences:** [Resume](https://drive.google.com/file/d/1freZOWcWNvkeZlef4d8zOjwFrxWTcG_u/view?usp=sharing)
 
 ## Skills
 <p align="center">
