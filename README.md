@@ -27,7 +27,7 @@ My previous experiences include:
 
 - 📄 Know even more about my experiences: **[My Resume](https://drive.google.com/file/d/1tHpKpwo8Pa3A_3SzeYq93gPkrRwrP4_v/view?usp=sharing)**
 
-## Skills
+Skills
 <p align="center">
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
