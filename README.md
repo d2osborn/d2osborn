@@ -3,7 +3,7 @@ My name is Diego Osborn, I'm a baseball geek studying Data Science with minors i
 
 ---
 
-I'm interested in any opportunities involving data science or data analytics, so please feel free to reach out to me via my listed contact methods!
+I'm interested in any opportunities involving or related to data science/data analytics, so please feel free to reach out to me via my listed contact methods!
 
 <p align="left">
 <a href="mailto:diegoisaacosborn@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a 
