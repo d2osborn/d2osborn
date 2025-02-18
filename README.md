@@ -7,11 +7,11 @@ I'm interested in any opportunities involving or related to data science/data an
 
 <p align="left">
 <a href="mailto:diegoisaacosborn@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a 
-<a href="mailto:d2osborn@ucsd.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="www.linkedin.com/in/diego-osborn/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:d2osborn@ucsd.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/diego-osborn"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 - 📫 How to reach me: **diegoisaacosborn@gmail.com** or **d2osborn@ucsd.edu**
-- 👥 How to connect: **[My LinkedIn](www.linkedin.com/in/diego-osborn)**
+- 👥 How to connect: **[My LinkedIn](https://www.linkedin.com/in/diego-osborn)**
 
 <details>
 <summary>Experiences </summary>
