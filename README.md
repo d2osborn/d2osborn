@@ -20,8 +20,8 @@ Currently, I am a Data Analytics Intern at the UC San Diego Career Center. My in
 <br><br>
 My previous experiences include:
 <ul>
-  <li> a Baseball Analytics Intern at UC San Diego Baseball</li>
-  <li> a Baseball Analytics Intern at Palm Springs Power Baseball</li>
+  <li> a Baseball Analytics Intern for UC San Diego Baseball</li>
+  <li> a Baseball Analytics Intern for Palm Springs Power Baseball</li>
 </ul>
 </details>
 
