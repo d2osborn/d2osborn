@@ -49,3 +49,22 @@ My previous experiences include:
 <img src="https://img.shields.io/badge/Java-%23f7f7f7.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
+
+<details>
+<summary>Projects </summary>
+<ul>
+  <li> Power Outages Statistical Analysis </li>
+</ul>
+</details>
+
+<details>
+<summary>Relevant Coursework </summary>
+<ul>
+  <li> Statistical Methods </li>
+  <li> Probability Theory </li>
+  <li> Exploratory Data Analysis and Inference </li>
+  <li> Probabilistic Modeling and Machine Learning </li>
+  <li> Data Management </li>
+  <li> Data Structures and Algorithms </li>
+</ul>
+</details>
