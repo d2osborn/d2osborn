@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋 </h1>
-My name is Diego Osborn, I'm a baseball geek studying Data Science with minors in Economics and Mathematics at the University of California, San Diego.
+My name is Diego Osborn, I'm a baseball geek and I study Data Science with minors in Economics and Mathematics at the University of California, San Diego.
 
 ---
 
