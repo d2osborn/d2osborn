@@ -51,9 +51,9 @@ Skills
 </p>
 
 <details>
-<summary>Projects </summary>
+<summary>Projects</summary>
 <ul>
-  <li> Power Outages Statistical Analysis </li>
+  <li> <a href="https://github.com/d2osborn/Power-Outages">Power Outages Statistical Analysis</a> </li>
 </ul>
 </details>
 
