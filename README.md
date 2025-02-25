@@ -65,6 +65,5 @@ Skills
   <li> Exploratory Data Analysis and Inference </li>
   <li> Probabilistic Modeling and Machine Learning </li>
   <li> Data Management </li>
-  <li> Data Structures and Algorithms </li>
 </ul>
 </details>
