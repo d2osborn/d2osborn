@@ -29,6 +29,9 @@ My previous experiences include:
 <ul>
   <li> <a href="https://github.com/d2osborn/Power-Outages">Power Outages Statistical Analysis</a> </li>
 </ul>
+<ul>
+  <li> <a href="https://github.com/d2osborn/PSCLSummerProject">PSCL Summer Project</a> </li>
+</ul>
 </details>
 
 <details>
