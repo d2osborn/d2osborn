@@ -24,7 +24,7 @@ My previous experiences include:
 </ul>
 </details>
 
-- 📄 Know even more about my experiences: **[My Resume](https://drive.google.com/file/d/1tHpKpwo8Pa3A_3SzeYq93gPkrRwrP4_v/view?usp=sharing)**
+📄 Know even more about my experiences: **[My Resume](https://drive.google.com/file/d/1tHpKpwo8Pa3A_3SzeYq93gPkrRwrP4_v/view?usp=sharing)**
 
 Skills
 <p align="center">
