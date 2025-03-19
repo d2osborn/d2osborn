@@ -16,11 +16,10 @@ I'm interested in any opportunities involving or related to data science/data an
 <details>
 <summary>Experiences </summary>
 <!-- <br> -->
-Currently, I am a Data Analytics Intern at the UC San Diego Career Center. My internship revolves around designing and implementing an interactive dashboard using Microsoft Power BI to visualize graduate career outcomes by providing insights on salary trends and top employers for students.
+Currently, I am both a Baseball Analytics Intern for UC San Diego Baseball and a Data Analytics Intern at the UC San Diego Career Center. My internship with the baseball team revolves around supporting the coaching staff with any ad-hoc analytical projects and creating opponent scouting reports. My internship at the career center revolves around designing and implementing an interactive dashboard using Microsoft Power BI to visualize graduate career outcomes by providing insights on salary trends and top employers for students.
 <br><br>
 My previous experiences include:
 <ul>
-  <li> a Baseball Analytics Intern for UC San Diego Baseball</li>
   <li> a Baseball Analytics Intern for Palm Springs Power Baseball</li>
 </ul>
 </details>
