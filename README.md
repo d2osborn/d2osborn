@@ -24,6 +24,24 @@ My previous experiences include:
 </ul>
 </details>
 
+<details>
+<summary>Projects</summary>
+<ul>
+  <li> <a href="https://github.com/d2osborn/Power-Outages">Power Outages Statistical Analysis</a> </li>
+</ul>
+</details>
+
+<details>
+<summary>Relevant Coursework </summary>
+<ul>
+  <li> Statistical Methods </li>
+  <li> Probability Theory </li>
+  <li> Exploratory Data Analysis and Inference </li>
+  <li> Probabilistic Modeling and Machine Learning </li>
+  <li> Data Management </li>
+</ul>
+</details>
+
 📄 Know even more about my experiences: **[My Resume](https://drive.google.com/file/d/1tHpKpwo8Pa3A_3SzeYq93gPkrRwrP4_v/view?usp=sharing)**
 
 Skills
@@ -48,21 +66,3 @@ Skills
 <img src="https://img.shields.io/badge/Java-%23f7f7f7.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
-
-<details>
-<summary>Projects</summary>
-<ul>
-  <li> <a href="https://github.com/d2osborn/Power-Outages">Power Outages Statistical Analysis</a> </li>
-</ul>
-</details>
-
-<details>
-<summary>Relevant Coursework </summary>
-<ul>
-  <li> Statistical Methods </li>
-  <li> Probability Theory </li>
-  <li> Exploratory Data Analysis and Inference </li>
-  <li> Probabilistic Modeling and Machine Learning </li>
-  <li> Data Management </li>
-</ul>
-</details>
