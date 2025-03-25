@@ -30,6 +30,12 @@ My previous experiences include:
   <li> <a href="https://github.com/d2osborn/Power-Outages">Power Outages Statistical Analysis</a> </li>
 </ul>
 <ul>
+  <li> <a href="https://github.com/d2osborn/Home-Price-Evaluator">Home Price Evaluator: Determining Market Value</a> </li>
+</ul>
+<ul>
+  <li> <a href="https://github.com/d2osborn/Spotify-Statistical-Analysis">Spotify Statistical Analysis</a> </li>
+</ul>
+<ul>
   <li> <a href="https://github.com/d2osborn/PSCLSummerProject">PSCL Summer Project</a> </li>
 </ul>
 </details>
