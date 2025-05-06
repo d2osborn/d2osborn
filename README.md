@@ -27,7 +27,7 @@ My previous experiences include:
 <details>
 <summary>Projects</summary>
 <ul>
-  <li> <a href="https://github.com/d2osborn/Power-Outages">Power Outages Statistical Analysis</a> </li>
+  <li> <a href="https://github.com/d2osborn/Power-Outages">Energy Demand Forecaster: Predicting Regional Energy Consumption</a> </li>
 </ul>
 <ul>
   <li> <a href="https://github.com/d2osborn/Home-Price-Evaluator">Home Price Evaluator: Determining Market Value</a> </li>
