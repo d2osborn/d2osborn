@@ -74,4 +74,7 @@ Skills
 <img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-%23f7f7f7.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/d3.js-%23f9a03c.svg?&style=for-the-badge&logo=d3.js&logoColor=white"/>
 </p>
