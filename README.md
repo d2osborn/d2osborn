@@ -27,13 +27,13 @@ My previous experiences include:
 <details>
 <summary>Projects</summary>
 <ul>
-  <li> <a href="https://github.com/d2osborn/Power-Outages">Energy Demand Forecaster: Predicting Regional Energy Consumption</a> </li>
+  <li> <a href="https://github.com/d2osborn/Power-Outages">Power Outages Analysis</a> </li>
 </ul>
 <ul>
-  <li> <a href="https://github.com/d2osborn/Home-Price-Evaluator">Home Price Evaluator: Determining Market Value</a> </li>
+  <li> <a href="https://github.com/d2osborn/Home-Price-Evaluator">Home Price Predictor</a> </li>
 </ul>
 <ul>
-  <li> <a href="https://github.com/d2osborn/Spotify-Popularity-Analyzer">Spotify Popularity Analyzer: Decoding the Sound of a Hit</a> </li>
+  <li> <a href="https://github.com/d2osborn/SpotifyAnalysis">Spotify Popularity Analysis</a> </li>
 </ul>
 <ul>
   <li> <a href="https://github.com/d2osborn/PSCLSummerProject">PSCL Summer Project</a> </li>
