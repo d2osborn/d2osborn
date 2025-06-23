@@ -43,11 +43,10 @@ My previous experiences include:
 <details>
 <summary>Relevant Coursework </summary>
 <ul>
-  <li> Statistical Methods </li>
-  <li> Probability Theory </li>
-  <li> Exploratory Data Analysis and Inference </li>
-  <li> Probabilistic Modeling and Machine Learning </li>
-  <li> Data Management </li>
+  <li> Statistical Modeling and Inference </li>
+  <li> Machine Learning and Probabilistic Methods </li>
+  <li> Optimization Methods and Linear Algebra </li>
+  <li> Data Management and Scalable Systems </li>
 </ul>
 </details>
 
