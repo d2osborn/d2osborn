@@ -1,9 +1,9 @@
-<h1 align="center">Hello there 👋 </h1>
-My name is Diego Osborn, I'm a baseball geek and I study Data Science with minors in Economics and Mathematics at the University of California, San Diego.
+<h1 align="center">Hi there 👋 </h1>
+My name is Diego Osborn; I am a fourth year undergraduate student studying Data Science at UC San Diego with minors in Economics and Mathematics and also a baseball geek!
 
 ---
 
-I'm interested in any opportunities involving or related to data science/data analytics, so please feel free to reach out to me via my listed contact methods!
+I'm interested in any opportunities involving or related to baseball/data science/data analytics, so please feel free to reach out to me via my listed contact methods!
 
 <p align="left">
 <a href="mailto:diegoisaacosborn@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a 
@@ -16,22 +16,26 @@ I'm interested in any opportunities involving or related to data science/data an
 <details>
 <summary>Experiences </summary>
 <!-- <br> -->
-Currently, I am both a Baseball Analytics Intern for UC San Diego Baseball and a Data Analytics Intern for the UC San Diego Career Center. My internship with the baseball team revolves around supporting the coaching staff with any ad-hoc analytical projects and creating opponent scouting reports. My internship at the career center revolves around designing and implementing an interactive dashboard using Microsoft Power BI to visualize graduate career outcomes by providing insights on salary trends and top employers for students.
+Currently, I am a Baseball Analytics Intern for UC San Diego Baseball.
 <br><br>
 My previous experiences include:
 <ul>
+  <li> a Data Analytics Intern for UC San Diego's Career Center</li>
   <li> a Baseball Analytics Intern for Palm Springs Power Baseball</li>
 </ul>
 </details>
 
 <details>
 <summary>Projects</summary>
-<ul>
+<!-- <ul>
   <li> <a href="https://github.com/d2osborn/Power-Outages">Power Outages Analysis</a> </li>
-</ul>
-<ul>
+</ul> -->
+<!-- <ul>
   <li> <a href="https://github.com/d2osborn/Home-Price-Evaluator">Home Price Predictor</a> </li>
-</ul>
+</ul> -->
+<ul>
+  <li> <a href="https://github.com/d2osborn/dsc106-finalproject">The Effect of Two Strikes on a Hitter's Swing</a> </li>
+</ul>  
 <ul>
   <li> <a href="https://github.com/d2osborn/SpotifyAnalysis">Spotify Popularity Analysis</a> </li>
 </ul>
@@ -50,7 +54,7 @@ My previous experiences include:
 </ul>
 </details>
 
-📄 Know even more about my experiences: **[My Resume](https://drive.google.com/file/d/1tHpKpwo8Pa3A_3SzeYq93gPkrRwrP4_v/view?usp=sharing)**
+📄 Know even more about my experiences: **[My Resume](https://drive.google.com/file/d/10oRDHSc7E6KU6C7SwgRmMm82VAInH7NE/view?usp=sharing)**
 
 Skills
 <p align="center">
